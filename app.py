@@ -28,7 +28,7 @@ def GetValues():
     seruminsulin = request.form.get('seruminsulin')
     bmi = request.form.get('bmi')
     diabetespedigree = request.form.get('diabetespedigree')
-    age = request.form.get('Edad')
+    age = request.form.get('age')
     
     data_json = []
     val = []
