@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'UPacificoPytFinal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F2C245F07064803B887468DE824BEC2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E8A8610C21C4E26923F11535A3089E8 }}
